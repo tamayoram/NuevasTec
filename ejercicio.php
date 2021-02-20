@@ -1,7 +1,7 @@
 
 <?php
 
-//solo un cambio
+//solo un cambio adicional
 $pasajerosBello=0;
 $pasajerosSabaneta=0;
 $pasajerosSanJavier=0;
